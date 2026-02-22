@@ -1,0 +1,107 @@
+ALGORYTHM AND LOGICAL DESIGN
+
+A. Serhat KILIÇOĞLU (@shampuan)
+
+
+AMBIANCE MUSICS
+
+"All This" (creative common license)
+Kevin MACLEOD 
+
+"Take a Chance" (creative common license)
+Kevin MACLEOD 
+
+"Undaunted" (creative common license)
+Kevin MACLEOD 
+
+"Volatile Reaction" (creative common license)
+Kevin MACLEOD 
+
+"Industrial Cinematic" (creative common license)
+Kevin MACLEOD 
+
+
+SOUND FX
+
+explosion, oceanwaves, watersplash:
+pixabay.com
+(creative common license)
+
+
+IMAGES AND ANIMATIONS
+
+Explosion animation: 
+floatvoid from
+opengameart.org
+
+splash.gif & splashred.gif:
+A. Serhat KILIÇOĞLU (@shampuan) (with GIMP)
+(creative common license)
+ 
+Shot.png: 
+A. Serhat KILIÇOĞLU (@shampuan) (with GIMP)
+(creative common license)
+
+Ocean Animation (pixart): 
+POKOMOKO from 
+opengameart.org
+(creative common license)
+
+Ocean Animation (ocean & oceanred):
+A. Serhat KILIÇOĞLU (@shampuan) (with GIMP)
+(creative common license)
+
+Sea Warfare Set:
+Lowder2 from
+opengameart.org
+(creative common license)
+
+Soldier Photos: 
+Raphael AI & Google Gemini
+(creative common license)
+
+BOYCOTT font on POSTER
+
+Ryoichi Tsunekawa
+
+https://www.fontsquirrel.com/fonts/Boycott
+https://ugokawaii.com/en/page-225-2/
+(freeware license for free or commercial use)
+
+POSTER 
+A. Serhat KILIÇOĞLU (@shampuan) (with GIMP) CC:CY
+
+----------------------------------------------
+
+ABOUT "ADMIRAL DOWN: MODERN NAVY"
+
+VERSION: 1.0
+
+LICENSE: GNU GPLv3
+
+SCRIPTING LANGUAGE: PYTHON3
+
+GUI/UX: PYQT5
+
+DEVELOPER: A. Serhat KILIÇOĞLU (shampuan) 
+
+GITHUB: www.github.com/shampuan
+
+----------------------------------------------
+
+This is a fun battleship game licensed under a free license.
+
+It is supported by improved sound effects, music, and
+ visual animations. 
+----------------------------------------------
+This program comes with absolutely no warranty.
+
+Copyright: 2026 - A. Serhat KILIÇOĞLU
+
+----------------------------------------------
+
+This game was created with the help of artificial intelligence.
+
+Thank you for playing.
+
+@shampuan
