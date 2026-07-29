@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Admiral Down
+Comment=Classic Strategy Game
+Exec=/usr/share/AdmiralDown/gamestart.py
+Icon=admiralicon
+Terminal=false
+Type=Application
+Categories=Game;StrategyGame;
+Keywords=warship;battle;strategy;deniz;savas;

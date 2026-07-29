@@ -1,0 +1,19 @@
+Oyuncu atışından sonra sıranın YZ'ye geçiş gecikmesi kısaltıldı (1000ms'den 500ms'ye)
+
+YZ'nin isabetli atış sonrası ikinci atış gecikmesi kısaltıldı (1000ms'den 500ms'ye)
+
+Oyuncu ve YZ portrelerinin durum değişiminde aynı anda değil, art arda flaş çakması sağlandı
+
+Pencere boyutu değiştirildiğinde (yeniden boyutlandırma/tam ekran) portrelerde gereksiz flaş çakması engellendi
+
+Skor alanı artık gerçek zamanlı batık/kalan gemi sayısını gösteriyor
+
+Son gemi battıktan sonra, sonuç penceresi açılana kadarki süre boyunca ateş etmeye devam edilebilen hata giderildi
+
+Kullanılmayan ve ölü kod parçaları temizlendi
+
+Splash ve explosion gifleri GIMP ile hızlandırıldı (100ms'den 70ms'ye).
+
+Patlama/sıçrama animasyonları ortak tek nesneden hücre başına bağımsız QMovie yapısına geçirildi (birbirini kesmesi engellendi). 
+
+Bulanık görünen bazı assetlerin netliği düzeltildi. 
